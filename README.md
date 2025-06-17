@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-👉 [View Deployed Site](fooddelhivery.ccbp.tech)  
+(fooddelhivery.ccbp.tech)  paste this link in browser
 
 ---
 
